@@ -1,0 +1,6 @@
+.mypy_cache
+.vscode
+.idea
+**/*.egg-info
+venv
+pyrightconfig.json
